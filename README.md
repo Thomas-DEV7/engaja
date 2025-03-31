@@ -26,9 +26,8 @@ Site profissional desenvolvido para a EngajaPro, agência de marketing digital e
 - Bootstrap 5
 - Font Awesome
 
-## 🚀 Como Usar
+## ©️ Direitos
+Copyright © 2023 EngajaPro
+Todos os direitos reservados. Proibida reprodução sem autorização.
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seuuser/engajapro-site.git
-```
+Desenvolvido por Thomas Bastos para EngajaPro
